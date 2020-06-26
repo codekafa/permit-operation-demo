@@ -1,0 +1,8 @@
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\bin\Debug\Model.dll
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\bin\Debug\Model.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\tayfu\source\repos\PermissionProject\Infrastructure\obj\Debug\Infrastructure.pdb

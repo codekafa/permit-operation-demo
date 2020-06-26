@@ -1,0 +1,5 @@
+C:\Users\tayfu\source\repos\PermissionProject\Model\bin\Debug\Model.dll
+C:\Users\tayfu\source\repos\PermissionProject\Model\bin\Debug\Model.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\tayfu\source\repos\PermissionProject\Model\obj\Debug\Model.dll
+C:\Users\tayfu\source\repos\PermissionProject\Model\obj\Debug\Model.pdb

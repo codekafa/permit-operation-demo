@@ -1,0 +1,10 @@
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Business.dll
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Business.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Infrastructure.dll
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Model.dll
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Infrastructure.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Business\bin\Debug\Model.pdb
+C:\Users\tayfu\source\repos\PermissionProject\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\tayfu\source\repos\PermissionProject\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\tayfu\source\repos\PermissionProject\Business\obj\Debug\Business.dll
+C:\Users\tayfu\source\repos\PermissionProject\Business\obj\Debug\Business.pdb
